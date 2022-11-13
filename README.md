@@ -1,6 +1,6 @@
 # 👋 Hi, I’m  donatien blamck
 - 👀 I’m interested in web development solutions, front-end and back-end
-- 🌱 I’m currently learning Javascript, php and python and Kotlin(to come), and AngularJS, Symfony  
+- 🌱 I’m currently learning Javascript, php, python, Kotlin, Flask, AngularJS, and Symfony  
 - 💞️ I’m looking to collaborate on any web project that could help me grow skills 
 - 📫 
 
